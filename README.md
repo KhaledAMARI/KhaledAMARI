@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @KhaledAMARI
-- 👀 I’m interested in Full stack Javascript development with MEVN Stack
-- 🌱 I’m currently learning postgreSql
-- 💞️ I’m looking to collaborate on ANy Javascript project
+- 👀 I’m interested in Full stack Javascript / Typescript development with MEVN, MERN Stack, Next js, Nest js, postgreSql
+- 🌱 I’m currently learning spring-boot
+- 💞️ I’m looking to collaborate on Any Javascript project or any Full remote Role
 - 📫 How to reach me : it's very simple
-                      linkedIn: https://www.linkedin.com/in/khaled-amari-52b734125/
+                      linkedIn: https://www.linkedin.com/in/khaled-amari/
                       Email: khaled_amari@live.fr OR khal3d.amari@gmail.com
                       Phone: 00216 20 105 822
 
